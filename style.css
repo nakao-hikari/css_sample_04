@@ -1,0 +1,36 @@
+body {
+    background-image: url("bg_image_01.jpg");
+}
+
+#container {
+    width: 800px;
+    margin: auto;
+    background-color: #3cb371;
+}
+
+header {
+    padding: 40px;
+    height: 80px;
+}
+
+nav {
+    padding: 8px 40px;
+    background-color: #5f9ea0;
+    color: #f5f5dc;
+}
+
+#contents{
+    padding: 40px;
+    height : 400px;
+}
+
+footer {
+    padding: 40px;
+    height: 40px;
+    background-color : #4b0082;
+    color: #f8f8ff;
+}
+
+larger {
+  font-size: larger;
+}
